@@ -41,8 +41,7 @@ public class Menu {
         System.out.println("\n");
         System.out.println("------------ TEMU ------------");
         System.out.println("\n");
-        System.out.println("El empleado con mayor sueldo es " + empleadoM
-            + " con un salario de " + empleadoM.CalcularSueldo());
+        System.out.println("El mayor salario es de " + empleadoM.CalcularSueldo());
         System.out.println("\n");
         System.out.println("------------ UTMA ------------");
         System.out.println("\n");
